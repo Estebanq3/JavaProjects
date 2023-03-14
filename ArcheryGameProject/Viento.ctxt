@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Viento
+comment1.params=
+comment1.target=Viento()
+comment2.params=
+comment2.target=double\ getdireccion()
+comment3.params=
+comment3.target=int\ getTipoDeViento()
+comment4.params=
+comment4.target=double\ calcularVariacion()
+comment4.text=\r\n\ @Funci\u00F3n\:\ Este\ m\u00E9todo\ se\ encarga\ de\ calcular\ la\ intensidad\ del\ viento,\ mediante\ la\ \r\n\ realizaci\u00F3n\ de\ un\ math\ random.\ De\ esta\ forma\ se\ selecciona\ una\ determinada\ intensidad\r\n\ que\ afectar\u00E1\ los\ disparos\ del\ jugador\ m\u00E1quina\ y\ jugador\ humano\ en\ el\ transcurso\ de\ la\r\n\ partida.\r\n\ @Retorna\:\ la\ intensidad\ debido\ a\ que\ la\ misma\ se\ debe\ actualizar\ entre\ cad\ tiro.\r\n
+comment5.params=x
+comment5.target=double\ DesviarConVentX(double)
+comment5.text=\r\n\ @Funci\u00F3n\:\ Este\ m\u00E9todo\ se\ encarga\ tomar\ el\ valor\ de\ x\ para\ aplicarle\ la\ desviaci\u00F3n\r\n\ respectiva\ mediante\ la\ f\u00F3rmula\ matem\u00E1tica\ cos.\r\n\ @Param\:\ utiliza\ como\ par\u00E1metro\ la\ coordenada\ x\ que\ sufrir\u00E1\ de\ una\ serie\ de\ cambios\r\n\ para\ actualizar\ el\ tiro\ del\ jugador\ debido\ a\ la\ influencia\ del\ viento.\r\n\ @Retorna\:\ la\ coordenada\ x,\ la\ cual\ posteriormente\ se\ utilizar\u00E1\ para\ calcular\ si\ \r\n\ el\ tiro\ termin\u00F3\ adentro\ o\ afuera\ de\ alguna\ de\ los\ c\u00EDrculos\ de\ la\ diana.\r\n
+comment6.params=y
+comment6.target=double\ DesviarConVentY(double)
+comment6.text=\r\n\ @Funci\u00F3n\:\ Este\ m\u00E9todo\ se\ encarga\ tomar\ el\ valor\ de\ y\ para\ aplicarle\ la\ desviaci\u00F3n\r\n\ respectiva\ mediante\ la\ f\u00F3rmula\ matem\u00E1tica\ sin.\r\n\ @Param\:\ utiliza\ como\ par\u00E1metro\ la\ coordenada\ y\ que\ sufrir\u00E1\ de\ una\ serie\ de\ cambios\r\n\ para\ actualizar\ el\ tiro\ del\ jugador\ debido\ a\ la\ influencia\ del\ viento.\r\n\ @Retorna\:\ la\ coordenada\ y,\ la\ cual\ posteriormente\ se\ utilizar\u00E1\ para\ calcular\ si\ \r\n\ el\ tiro\ termin\u00F3\ adentro\ o\ afuera\ de\ alguna\ de\ los\ c\u00EDrculos\ de\ la\ diana.\r\n
+numComments=7

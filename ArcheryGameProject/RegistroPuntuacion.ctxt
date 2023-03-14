@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RegistroPuntuacion
+comment1.params=
+comment1.target=RegistroPuntuacion()
+comment2.params=puntuacion
+comment2.target=void\ CambiarPuntuacion(double)
+comment2.text=\r\n\ @Funcion\:\ Este\ m\u00E9todo\ tiene\ como\ funci\u00F3n\ actualizar\ la\ tabla\ de\ puntuaciones,\ debido\ a\ que\r\n\ recibe\ la\ puntuacion\ de\ un\ jugador\ y\ la\ guarda\ si\ este\ es\ el\ jugador\ de\ mayor\ puntaje\r\n\ hasta\ el\ momento.\ Debido\ a\ esto\ \u00FAltimo\ que\ se\ menciona,\ la\ presencia\ de\ un\ if\ es\ necesario\r\n\ en\ el\ c\u00F3digo\ para\ poder\ comparar\ la\ puntuaci\u00F3n\ de\ dos\ jugadores\ diferentes\ y\ as\u00ED\r\n\ determinar\ quien\ es\ el\ de\ mayor\ puntaje.\r\n
+comment3.params=
+comment3.target=void\ BorrarPuntuacion()
+comment3.text=\r\n\ En\ este\ m\u00E9todo\ se\ borra\ la\ puntuaci\u00F3n\ menor\ para\ poder\ introducir\ la\ puntuaci\u00F3n\ m\u00E1s\r\n\ alta\ ingresada.\r\n
+comment4.params=
+comment4.target=void\ TablaPuntuaciones()
+comment4.text=\r\n\ En\ este\ m\u00E9todo\ se\ \u00FAnicamente\ se\ muestra\ la\ puntuaci\u00F3n\ m\u00E1s\ alta\ registrada\ en\ el\ \r\n\ juego.\r\n
+numComments=5

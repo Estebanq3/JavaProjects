@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ solicitarOperacionARealizar()
+comment2.text=\r\n\ Funcion\:\ Este\ m\u00E9todo\ es\ el\ responsable\ de\ mostrar\ al\ usuario\ las\ distintas\ opciones\r\n\ que\ puede\ ejecutar.\ A\ trav\u00E9s\ del\ mismo\ se\ le\ permite\ al\ usuario\ interactuar\ con\ una\ interfaz\r\n\ \ para\ modificar\ los\ sets\ y\r\n\ los\ tiros\ que\ tendr\u00E1\ la\ partida\ llamando\ a\ distintos\ m\u00E9todos\ de\ otras\ clases,\ o\ podr\u00E1\ consultar\r\n\ la\ puntuaci\u00F3n\ m\u00E1s\ alta,\ asimismo,\ podr\u00E1\ salir\ si\ lo\ desea\ o\ lo\ m\u00E1s\ importante,\ iniciar\ una\ nueva\r\n\ partida\ en\ la\ cual\ ejecutar\u00E1\ el\ juego\ de\ arquer\u00EDa.\r\n
+numComments=3

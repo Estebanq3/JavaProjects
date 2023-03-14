@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ConfiguracionDePartida
+comment1.params=
+comment1.target=ConfiguracionDePartida()
+comment2.params=
+comment2.target=int\ getSets()
+comment3.params=
+comment3.target=int\ getTiros()
+comment4.params=
+comment4.target=void\ ConfigurarSets()
+comment4.text=\r\n\ @Funcion\:\ Este\ m\u00E9todo\ se\ utiliza\ para\ configurar\ la\ cantidad\ de\ sets\ de\ la\ partida.\ Si\r\n\ el\ jugador\ desea\ modificar\ la\ cantidad\ defecto\ de\ 2\ sets,\ debera\ hacer\ uso\ de\ este\r\n\ m\u00E9todo\ a\ trav\u00E9s\ del\ men\u00FA.\r\n
+comment5.params=
+comment5.target=void\ ConfigurarTiros()
+comment5.text=\r\n\ @Funcion\:\ Este\ m\u00E9todo\ se\ utiliza\ para\ configurar\ la\ cantidad\ de\ tiros\ de\ la\ partida.\ Si\r\n\ el\ jugador\ desea\ modificar\ la\ cantidad\ defecto\ de\ 3\ tiros,\ debera\ hacer\ uso\ de\ este\r\n\ m\u00E9todo\ a\ trav\u00E9s\ del\ men\u00FA.\r\n
+numComments=6
