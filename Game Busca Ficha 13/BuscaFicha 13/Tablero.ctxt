@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=extension
+comment1.target=void\ AsignarFichas(int)
+comment2.params=extension
+comment2.target=void\ MovFJ1(int)
+comment3.params=extension
+comment3.target=void\ MovFJ2(int)
+numComments=4
